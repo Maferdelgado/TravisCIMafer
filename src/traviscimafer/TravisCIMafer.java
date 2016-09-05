@@ -5,23 +5,9 @@ import javax.swing.*;
  * Autora:Mafer Delgado
  */
 public class TravisCIMafer {
-
-    public static void main(String[] args)
-    {
-        System.out.println("Universidad Laica Eloy Alfaro de Manabí");
-        System.out.println("Integración Continua con TravisCI y GitHUB");
-        System.out.println("Calculadora Básica");
-        System.out.println("Ingeniería de Software");
-        System.out.println("Ing. Diego Toala");
-        System.out.println("María Fernanda");
-        System.out.println("Delgado Guerrero");
-        
-        
-        //Códigos
+public static void main(String[] args){
         int op=0;
-        
         double n1,n2,multiplicacion,suma,division,resta;
-        
         do{
             op=Integer.parseInt(JOptionPane.showInputDialog("nCalculadoran"+
             "************n"+
