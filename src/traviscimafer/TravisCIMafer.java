@@ -15,6 +15,7 @@ public class TravisCIMafer {
         System.out.println("Ingeniería de Software");
         System.out.println("Ing. Diego Toala");
         System.out.println("María Fernanda");
+        System.out.println("Delgado Guerrero");
         int op=0;
         double n1,n2,multiplicacion,suma,division,resta;
         do{
