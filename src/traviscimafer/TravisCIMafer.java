@@ -9,6 +9,7 @@ public class TravisCIMafer {
     public static void main(String[] args)
     {
         System.out.println("Práctica TravisCI");
+        System.out.println("Integración Continua con TravisCI y GitHUB");
         System.out.println("Universidad Laica Eloy Alfaro de Manabí");
         System.out.println("Calculadora Básica");
         System.out.println("Ingeniería de Software");
