@@ -12,8 +12,6 @@ public class TravisCIMafer {
         System.out.println("Calculadora Básica");
         System.out.println("Ingeniería de Software");
         System.out.println("Ing. Diego Toala");
-        System.out.println("Mafer Delgado");
-        
         int op=0;
         double n1,n2,multiplicacion,suma,division,resta;
         do{
